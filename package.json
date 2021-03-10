@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1hive/price-oracle-service.git"
+    "url": "git+https://github.com/cleancoindev/price-oracle-service.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1hive/price-oracle-service/issues"
+    "url": "https://github.com/cleancoindev/price-oracle-service/issues"
   },
-  "homepage": "https://github.com/1hive/price-oracle-service#readme",
+  "homepage": "https://github.com/cleancoindev/price-oracle-service#readme",
   "dependencies": {
     "ethers": "^5.0.19",
     "node-fetch": "^2.6.1"
